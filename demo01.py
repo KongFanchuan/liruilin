@@ -10,3 +10,5 @@ a = input("请输入：")
 b = input("请输入：")
 print("获取的内容:",a+b)
 print("字符长度是:",len(a+b))
+
+
